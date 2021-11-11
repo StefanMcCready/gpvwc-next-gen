@@ -1,6 +1,6 @@
 # GPVWC Next Gen
 
-## 🚀 Quick start
+## Quick start
 
 1. **Running the site.**
 
